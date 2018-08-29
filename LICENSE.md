@@ -14,5 +14,5 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 If you are using this software, please cite:
 
-    M. Barni, A. Costanzo, E. Nowroozi, B. Tondi., “CNN-based detection of generic contrast adjustment with
-    JPEG post-processing", ICIP 2018 (http://clem.dii.unisi.it/~vipp/files/publications/CM-icip18.pdf)
+    [M. Barni, A. Costanzo, E. Nowroozi, B. Tondi., “CNN-based detection of generic contrast adjustment with
+    JPEG post-processing", ICIP 2018](http://clem.dii.unisi.it/~vipp/files/publications/CM-icip18.pdf)
